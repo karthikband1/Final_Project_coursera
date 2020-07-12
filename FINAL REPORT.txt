@@ -13,7 +13,7 @@ It will help people to get awareness of the area and neighborhood before moving 
 
 Data Link: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
-Will use Scarborough dataset which we scrapped from wikipedia on Week 3. Dataset consisting of latitude and longitude, zip codes.
+Will use TORONTO dataset which we scrapped from wikipedia on Week 3. Dataset consisting of latitude and longitude, zip codes.
 Foursquare API Data:
 
 We will need data about different venues in different neighborhoods of that specific borough. In order to gain that information we will use "Foursquare" locational information. Foursquare is a location data provider with information about all manner of venues and events within an area of interest. Such information includes venue names, locations, menus and even photos. As such, the foursquare location platform will be used as the sole data source since all the stated required information can be obtained through the API.
@@ -38,14 +38,6 @@ https://github.com/karthikband1/Final_Project_coursera/blob/master/FINALCAPSTONE
 Clustering Approach:
 
 To compare the similarities of two cities, we decided to explore neighborhoods, segment them, and group them into clusters to find similar neighborhoods in a big city like New York and Toronto. To be able to do that, we need to cluster data which is a form of unsupervised machine learning: k-means clustering algorithm.
-
-Using K-Means Clustering Approach
-
-    Using%20K-Means%20Clustering%20Approach%20-%2010th%20Most%20Common%20Venue.png
-
-Most Common venues near Neighborhood
-
-    Most%20Common%20venues%20near%20neighborhood.png
 
 Work Flow:
 
