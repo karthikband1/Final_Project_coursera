@@ -85,11 +85,7 @@ Libraries Which are Used to Develope the Project:
 
     JSON: Library to handle JSON files.
 
-    XML: To separate data from presentation and XML stores data in plain text format.
-
     Geocoder: To retrieve Location Data.
-
-    Beautiful Soup and Requests: To scrap and library to handle http requests.
 
     Matplotlib: Python Plotting Module.
 
